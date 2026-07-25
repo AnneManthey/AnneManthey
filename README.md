@@ -1,7 +1,7 @@
 # Hi there, I'm Anne 👋
 **Aspiring Fullstack Developer | Transitioning from Conservation & Recruiting**
 
-Driven by the desire to build accessible, intuitive, and meaningful digital solutions, I bring a unique blend of technical skills, creative problem-solving, and a strong background in team communication.
+Driven by the desire to build accessible, intuitive and meaningful digital solutions, I bring a unique blend of technical skills, creative problem-solving and a strong background in team communication.
 
 ---
 
@@ -17,8 +17,8 @@ Driven by the desire to build accessible, intuitive, and meaningful digital solu
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | HTML, CSS, SCSS, JavaScript, TypeScript, Angular |
-| **Backend** | Python, Django, SQL, Docker |
+| **Frontend** | HTML, CSS, SCSS, JavaScript, TypeScript, Angular, Supabase |
+| **Backend** | Python, Django, SQLite, Docker |
 | **AI & Automation** | Context Engineering, AI-Integration, N8N Workflows, AI Agents |
 
 ---

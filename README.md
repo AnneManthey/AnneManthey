@@ -13,13 +13,13 @@ Driven by the desire to build accessible, intuitive, and meaningful digital solu
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Aspired Tech Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript, Angular |
-| **Backend** | Python, Django, SQL |
-| **AI & Automation** | AI-assisted coding, n8n Workflows, AI Agents |
+| **Frontend** | HTML, CSS, SCSS, JavaScript, TypeScript, Angular |
+| **Backend** | Python, Django, SQL, Docker |
+| **AI & Automation** | Context Engineering, AI-Integration, N8N Workflows, AI Agents |
 
 ---
 

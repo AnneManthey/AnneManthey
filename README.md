@@ -9,6 +9,7 @@ Driven by the desire to build accessible, intuitive and meaningful digital solut
 
 * 🎓 **Current Focus:** Completing an intensive 12-month **Fullstack Development** program.
 * 🌿 **Background:** Years of experience in **Conservation** (precision, attention to detail) and **Recruiting** (communication, human-centered mindset).
+* 🎓 **Education:** M.A. in **Conservation Science** (*Restaurierungswissenschaft*).
 * 💼 **Availability:** Open for **Junior Developer roles** starting **April 2027** (preferably remote-friendly).
 
 ---

@@ -32,6 +32,12 @@ Driven by the desire to build accessible, intuitive and meaningful digital solut
 
 ---
 -->
+### 💬 Languages
+
+* 🇩🇪 German (native)
+* 🇬🇧 English (advanced)
+
+---
 
 ### 📬 Connect with Me
 
